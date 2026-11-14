@@ -1,0 +1,1 @@
+{"description":"One server serving the OpenAI and Anthropic APIs over ten simulated free-tier providers.","name":"free-model-aggregator","private":true,"type":"module","version":"1.0.0"}
